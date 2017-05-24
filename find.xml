@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selection" />
-    <option name="defaultScopeName" value="Selection" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="Selection" />
+    <option name="SEARCH_SCOPE" value="Current File" />
   </component>
 </application>
