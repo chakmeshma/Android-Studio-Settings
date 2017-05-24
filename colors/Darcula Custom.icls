@@ -1,11 +1,4 @@
 <scheme name="Darcula Custom" version="142" parent_scheme="Darcula">
-  <metaInfo>
-    <property name="created">2017-05-24T14:56:18</property>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">2.3.2.0</property>
-    <property name="modified">2017-05-24T15:37:01</property>
-    <property name="originalScheme">Darcula</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
@@ -121,14 +114,14 @@
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff7744" />
+        <option name="FOREGROUND" value="ff5524" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="111111" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -138,6 +131,12 @@
         <option name="BACKGROUND" value="3c3f41" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bc3f3c" />
+        <option name="BACKGROUND" value="ffa8" />
       </value>
     </option>
   </attributes>
