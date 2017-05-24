@@ -3,17 +3,30 @@
     <property name="created">2017-05-24T14:56:18</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2.3.2.0</property>
-    <property name="modified">2017-05-24T15:03:51</property>
+    <property name="modified">2017-05-24T15:37:01</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="351d10" />
+  </colors>
   <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff00" />
+      </value>
+    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="33310b" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff00" />
       </value>
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
@@ -21,46 +34,110 @@
         <option name="FOREGROUND" value="ff00" />
       </value>
     </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff7744" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4245ff" />
       </value>
     </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="aaff00" />
+        <option name="FOREGROUND" value="ff00" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff2b00" />
+        <option name="FOREGROUND" value="fffe00" />
+      </value>
+    </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fffe00" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff77" />
+        <option name="FOREGROUND" value="ff00" />
+      </value>
+    </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="758073" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ccb099" />
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="758073" />
+      </value>
+    </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="e643d0" />
+        <option name="BACKGROUND" value="1d1d1d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JAVA_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="853f58" />
+      </value>
+    </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff7744" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="82ff" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff4d00" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="fffe00" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d3ff00" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff7744" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="41090a" />
+        <option name="BACKGROUND" value="3c3f41" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
   </attributes>
