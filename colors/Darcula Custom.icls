@@ -1,0 +1,20 @@
+<scheme name="Darcula Custom" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-05-24T13:25:11</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2.3.2.0</property>
+    <property name="modified">2017-05-24T13:26:15</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="ANNOTATION_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="292709" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
