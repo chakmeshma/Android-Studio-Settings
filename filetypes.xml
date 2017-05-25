@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="RTK" type="PLAIN_TEXT" />
       <mapping pattern="zzzz" type="PLAIN_TEXT" />
+      <mapping ext="vert" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
